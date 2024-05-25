@@ -51,7 +51,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://www.linkedin.com/in/janod-abesekara](https://www.linkedin.com/in/janod-abesekara-05514426b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="JanodAbeskeara" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/janod-abesekara-05514426b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="JanodAbeskeara" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/23491950/janod-abesekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/Janod abesekara/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
