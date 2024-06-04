@@ -11,8 +11,6 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
-- 💬 Ask me about **Java, MERN**
-
 - 📫 How to reach me **janodabesekara91@gmail.com**
   
 
