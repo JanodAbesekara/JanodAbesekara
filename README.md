@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **RAG Application Developement**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
