@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **RAG Application Developement**
 
-- 🧑‍🎓 I’m 3rd year Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
 - 📫 How to reach me **janodabesekara91@gmail.com**
   
