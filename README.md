@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **RAG Application Developement**
+- 🌱 I’m currently learning **Software Security**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
