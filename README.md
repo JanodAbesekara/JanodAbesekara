@@ -139,6 +139,7 @@
    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.testrigtechnologies.com/wp-content/uploads/2023/06/Cypress-logo-1.png" alt="cypress" width="50" height="50"/> </a> 
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D560BAQGGAYKB3JGKrg/company-logo_200_200/company-logo_200_200/0/1688581340882/circleci_logo?e=2147483647&v=beta&t=AJSRe2ndNCsDBBVzWMV5zuTIZmmKIwrOt-sAj8vxcZQ" alt="circleci" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvW76wVYM9XOrKF-DWh_AoQeeUyX0kIn0g&s" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+    <a href="https://playwright.dev/" alert="playwrigh"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4aSPzRNYcA13340K3u_9HKaTKeUzU2vCXfQ&s" alert="playwrigh"  width="40" height="40"/> </a>
   </p>
 
 ---
