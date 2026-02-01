@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page"></a>
 </p> -->
-<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janodabesekara&label=Profile%20views&color=0e75b6&style=flat" alt="janodabesekara" />  </p>
 
 <table align="center">
