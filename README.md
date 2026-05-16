@@ -3,7 +3,7 @@
 ```
      ██╗ █████╗ ███╗   ██╗ ██████╗ ██████╗ 
      ██║██╔══██╗████╗  ██║██╔═══██╗██╔══██╗
-     ██║███████║██╔██╗ ██║██║   ██║██║  ██║
+     ██║███████║██╔██╗ ██║██║   ██║██║  ██║ 
 ██   ██║██╔══██║██║╚██╗██║██║   ██║██║  ██║
 ╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝██████╔╝
  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ 
@@ -87,10 +87,11 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
