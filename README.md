@@ -132,10 +132,12 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 ## 🔐 Currently Exploring
 
 ```
-🛡️  Cybersecurity & Ethical Hacking
-🔍  Penetration Testing
-🌐  Network Security
-🔒  Secure Software Development
+🛡️ Cybersecurity & Ethical Hacking
+🔍 Penetration Testing & Vulnerability Assessment
+🌐 Network Security
+🔒 Secure Software Development
+🤖 Agentic AI & Autonomous AI Systems
+🔗 Model Context Protocol (MCP) Servers & AI Tool Integration
 ```
 
 ---
