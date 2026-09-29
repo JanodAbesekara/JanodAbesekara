@@ -1,20 +1,26 @@
 <div align="center">
 
-     
-     ██╗ █████╗ ███╗   ██╗ ██████╗ ██████╗      
-     ██║██╔══██╗████╗  ██║██╔═══██╗██╔══██╗   
-     ██║███████║██╔██╗ ██║██║   ██║██║  ██║    
-██   ██║██╔══██║██║╚██╗██║██║   ██║██║  ██║    
-╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝██████╔╝    
- ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝     
+```
+     ██╗ █████╗ ███╗   ██╗ ██████╗ ██████╗ 
+     ██║██╔══██╗████╗  ██║██╔═══██╗██╔══██╗
+     ██║███████║██╔██╗ ██║██║   ██║██║  ██║
+██   ██║██╔══██║██║╚██╗██║██║   ██║██║  ██║
+╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝██████╔╝
+ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ 
 
-
+ █████╗ ██████╗ ███████╗███████╗███████╗██╗  ██╗ █████╗ ██████╗  █████╗ 
+██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+███████║██████╔╝█████╗  ███████╗█████╗  █████╔╝ ███████║██████╔╝███████║
+██╔══██║██╔══██╗██╔══╝  ╚════██║██╔══╝  ██╔═██╗ ██╔══██║██╔══██╗██╔══██║
+██║  ██║██████╔╝███████╗███████║███████╗██║  ██╗██║  ██║██║  ██║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 ### ⚡ Software Engineer · Ethical Hacker · Builder ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Janod+Abesekara;Software+Engineer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;University+of+Moratuwa+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=janodabesekara&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JanodAbesekara&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -40,7 +46,7 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janod-abesekara-05514426b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janod-abesekara-05514426b/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23491950/janod-abesekara)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/janodabesekara/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janodabesekara91@gmail.com)
@@ -94,7 +100,6 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -108,16 +113,16 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanodAbesekara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JanodAbesekara&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JanodAbesekara&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanodAbesekara&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanodAbesekara&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=JanodAbesekara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanodAbesekara&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JanodAbesekara&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -125,7 +130,7 @@ fun_fact: I turn coffee ☕ into code and bugs into features
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JanodAbesekara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JanodAbesekara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
